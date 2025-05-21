@@ -30,6 +30,10 @@ Here are some examples of videos generated using the macOS adaptation:
 <video width="49%" controls autoplay muted loop><source src="/output/jungle_walk_small_01.mp4" type="video/mp4"></video>
 </div>
 
+#### Wan2.1 14B Generation
+
+<video width="100%" controls autoplay muted loop><source src="/output/output_video_14b.mp4" type="video/mp4"></video>
+
 ## Installation Instructions
 
 Follow these steps to set up the environment on macOS:
